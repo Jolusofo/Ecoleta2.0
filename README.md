@@ -30,10 +30,10 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
 
 
 # API de instalação
--> Clone este repositório
+-> Clone este repositório:
  git clone https://github.com/Jolusofo/Ecoleta2.0
 
--> Vá para o repositório 
+-> Vá para o repositório:
  cd Ecoleta/Rock/Server
 
 -> Instalar dependências:
