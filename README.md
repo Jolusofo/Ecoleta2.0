@@ -22,8 +22,8 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
 <ul>
 <li><a href="https://nodejs.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js</font></font></a></li>
 <li><a href="https://www.typescriptlang.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TypeScript</font></font></a></li>
-<li><a href="https://reactjs.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Reagir</font></font></a></li>
-<li><a href="https://facebook.github.io/react-native/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Reagir nativo</font></font></a></li>
+<li><a href="https://reactjs.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React</font></font></a></li>
+<li><a href="https://facebook.github.io/react-native/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React Native</font></font></a></li>
 <li><a href="https://expo.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Expo</font></font></a></li>
 </ul>
 
